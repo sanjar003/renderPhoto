@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/renderPhoto/static/css/main.f824b19b.css",
+    "main.js": "/renderPhoto/static/js/main.8d75f5d2.js",
+    "index.html": "/renderPhoto/index.html",
+    "main.f824b19b.css.map": "/renderPhoto/static/css/main.f824b19b.css.map",
+    "main.8d75f5d2.js.map": "/renderPhoto/static/js/main.8d75f5d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f824b19b.css",
+    "static/js/main.8d75f5d2.js"
+  ]
+}
