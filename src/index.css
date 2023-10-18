@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.DivCont {
+  border: 2px solid grey;
+  border-radius: 5px;
+  width: 350px;
+  margin: 10px;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  cursor: pointer;
+
+}
+
+.email {
+  word-break: break-all;
+}
